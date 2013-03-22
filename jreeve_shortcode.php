@@ -10,6 +10,11 @@ Description: Very Simple plug to make it so that I cna put the bloginfo into a s
 Author: John Reeve
 Version: 1.0
 Author URI: http://johnrreeve.com
+
+-- usage --
+
+Should be pretty obvious, but you just us it [bloginfop "siteURL"] or whatever
+
 */
 
 function jreeve_bloginfo_shortcode( $atts ) {
